@@ -35,9 +35,9 @@ class Program
             Console.WriteLine($"Comment Count: {video.GetCommentCount()}"); 
             Console.WriteLine("Comments:");
 
-            foreach (Comment c in video._comments)
+            foreach (Comment comment in video._comments)
             {
-                Console.WriteLine($"- {c._name}: {c._text}");
+                Console.WriteLine($"- {comment._name}: {comment._text}");
             }
         }
     }
