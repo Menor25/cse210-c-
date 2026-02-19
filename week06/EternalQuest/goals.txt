@@ -1,0 +1,4 @@
+0
+SimpleGoal:Book Reading,Read a book to completion every week,200,False
+EternalGoal:Study Scripture,Study the scripture daily,50
+ChecklistGoal:Attend the temple,Attend and perform any ordinance,50,3,500,0
